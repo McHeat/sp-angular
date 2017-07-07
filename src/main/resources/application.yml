@@ -1,0 +1,4 @@
+security:
+  user:
+    password: password
+management.security.enabled: false        # 关闭security认证
